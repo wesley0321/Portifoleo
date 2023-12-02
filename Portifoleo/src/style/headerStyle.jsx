@@ -3,10 +3,10 @@ import styled from "styled-components"
 export const StyleHeader = styled.header`
 
 background-color: #615e5e;
-height: 5vh;
+height: 10vh;
 display: flex;
-    align-items: center;
-    justify-content: center;
+align-items: center;
+justify-content: center;
 
 
 `
@@ -16,6 +16,8 @@ export const Navegacao = styled.ul`
     justify-content: space-around;
     list-style: none;
     width: 75vw;
+    font-size: 25px;
+  
     
 
     @media (max-width:800px){

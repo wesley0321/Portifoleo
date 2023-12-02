@@ -7,18 +7,22 @@ function Header(){
     return (
         <StyleHeader>
             <nav>
+                
                 <Navegacao>
+                
                     <li>
                         <Link to="/">Inicio</Link>
+                    </li>
+
+                    <li>
+                        <Link to="/sobre">Sobre</Link>
                     </li>
 
                     <li>
                         <Link to="/projetos">Projetos</Link>
                     </li>
 
-                    <li>
-                        <Link to="/sobre">Sobre</Link>
-                    </li>
+                
                 </Navegacao>
             </nav>
         </StyleHeader>
