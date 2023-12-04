@@ -17,7 +17,7 @@ function Sobre() {
 
                 <Texto>
                     <Titulo>Sobre:</Titulo>
-                    Eu chamo Wesley e no momento estou em transição de carreira para a área de Desenvolvimento Front-end, buscando a minha primeira oportunidade na area. Sempre me destaquei por ser um profissional apaixonado pela resolução de problemas e inovações. Eu adoro trabalhar em equipe e sempre buscando melhorias nos processos para tornar a jornada de trabalho mais ágil, compreendendo a particularidade de cada pessoa e com foco no resultado.
+                    Eu chamo me Wesley e no momento estou em transição de carreira para a área de Desenvolvimento Front-end, buscando a minha primeira oportunidade na area. Sempre me destaquei por ser um profissional apaixonado pela resolução de problemas e inovações. Eu adoro trabalhar em equipe e sempre buscando melhorias nos processos para tornar a jornada de trabalho mais ágil, compreendendo a particularidade de cada pessoa e com foco no resultado.
                     Nesses últimos meses estudei na escola Vai na Web algumas tecnologias como JAVASCRIPT, REACT, SASS.</Texto>
 
 

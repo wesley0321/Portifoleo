@@ -14,6 +14,7 @@ font-size: 22px;
     height: 55vh;
     font-size: 20px;
     margin-bottom: 30px;
+    overflow-y: scroll;
     }
 
 
@@ -53,7 +54,7 @@ width: 8vw;
 
 export const Section = styled.section`
  background-color: #000000;
- height: 70vh;
+ height: 100vh;
  display: flex;
  justify-content: space-around;
  align-items: center;

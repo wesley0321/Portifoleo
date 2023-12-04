@@ -17,9 +17,19 @@ export const Navegacao = styled.ul`
     list-style: none;
     width: 75vw;
     font-size: 25px;
-  
+    background-color: #615e5e;
+   
+    a{
+        background-color: #615e5e;
+        text-decoration: none;
     
+    }
 
+    ul{
+        background-color: #615e5e;
+    }
+
+    
     @media (max-width:800px){
        
     }

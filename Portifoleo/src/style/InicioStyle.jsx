@@ -13,7 +13,7 @@ background-color: black;
 display: flex;
 align-items: center;
 justify-content: space-around;
-
+height: 100vh;
 @media (max-width:800px){
        height: 80vh;
     }
